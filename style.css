@@ -1,0 +1,312 @@
+
+
+
+
+.img-height{
+
+    height: 350px;
+
+}
+
+.bg-custom{
+
+    Background-color: aqua
+
+
+}
+
+.custom-ul{
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+
+.custom-nav-link{
+
+    text-decoration: none;
+    color: black;
+    padding: 20px;
+    font-size: 30px;
+}
+
+
+.custom-p{
+    margin: 5px;
+    width: 271px !important;
+}
+
+.custom-height{
+
+    height: 250px;
+}
+
+
+/* Device Responsive */
+
+@media screen and (max-width: 1200px) {
+    .custom-p{
+   
+    width: 227px !important;
+    }
+}
+
+
+@media screen and (max-width: 992px) {
+    .custom-p{
+   
+    width: 168px !important;
+    }
+}
+
+@media screen and (max-width: 574px) {
+    .custom-p{
+   margin: 9px;
+    
+    }
+}
+
+@media screen and (max-width: 574px) {
+    .custom-p{
+   margin: 9px;
+    
+    }
+}
+@media screen and (max-width: 558px) {
+    .custom-p{
+   margin: 8px;
+    
+    }
+}
+
+@media screen and (max-width: 552px) {
+    .custom-p{
+   margin: 7px;
+    
+    }
+}
+
+@media screen and (max-width: 546px) {
+    .custom-p{
+   margin: 6px;
+    
+    }
+}
+
+@media screen and (max-width: 540px) {
+    .custom-p{
+   margin: 5px;
+    
+    }
+}
+
+@media screen and (max-width: 534px) {
+    .custom-p{
+   margin: 4px;
+    
+    }
+}
+
+@media screen and (max-width: 528px) {
+    .custom-p{
+   margin: 3px;
+    
+    }
+}
+
+@media screen and (max-width: 522px) {
+    .custom-p{
+   margin: 2px;
+    
+    }
+}
+
+@media screen and (max-width: 516px) {
+    .custom-p{
+   margin: 1px;
+    
+    }
+}
+
+@media screen and (max-width: 516px) {
+    .custom-p{
+   margin: 1px;
+    
+    }
+}
+
+@media screen and (max-width: 510px) {
+    .custom-p{
+  Margin: 5px;
+    width: 237px !important; 
+    }
+}
+
+@media screen and (max-width: 495px) {
+    .custom-p{
+  Margin: 5px;
+    width: 230px !important; 
+    }
+}
+
+
+@media screen and (max-width: 481px) {
+    .custom-p{
+  Margin: 5px;
+    width: 225px !important; 
+    }
+}
+
+@media screen and (max-width: 471px) {
+    .custom-p{
+  Margin: 5px;
+    width: 220px !important; 
+    }
+}
+
+@media screen and (max-width: 461px) {
+    .custom-p{
+  Margin: 3px;
+    width: 218px !important; 
+    }
+}
+
+@media screen and (max-width: 449px) {
+    .custom-p{
+  Margin: 3px;
+    width: 210px !important; 
+    }
+}
+
+@media screen and (max-width: 433px) {
+    .custom-p{
+  Margin: 3px;
+    width: 205px !important; 
+    }
+}
+
+@media screen and (max-width: 423px) {
+    .custom-p{
+  Margin: 3px;
+    width: 198px !important; 
+    }
+}
+@media screen and (max-width: 409px) {
+    .custom-p{
+  Margin: 3px;
+    width: 190px !important; 
+    }
+}
+@media screen and (max-width: 393px) {
+    .custom-p{
+  Margin: 3px;
+    width: 185px !important; 
+    }
+}
+
+@media screen and (max-width: 383px) {
+    .custom-p{
+  Margin: 3px;
+    width: 180px !important; 
+    }
+}
+@media screen and (max-width: 373px) {
+    .custom-p{
+  Margin: 3px;
+    width: 175px !important; 
+    }
+}
+@media screen and (max-width: 363px) {
+    .custom-p{
+  Margin: 3px;
+    width: 170px !important; 
+    }
+}
+@media screen and (max-width: 353px) {
+    .custom-p{
+  Margin: 3px;
+    width: 165px !important; 
+    }
+}
+@media screen and (max-width: 343px) {
+    .custom-p{
+  Margin: 3px;
+    width: 160px !important; 
+    }
+}
+@media screen and (max-width: 333px) {
+    .custom-p{
+  Margin: 3px;
+    width: 155px !important; 
+    }
+}
+
+@media screen and (max-width: 323px) {
+    .custom-p{
+  Margin: 3px;
+    width: 150px !important; 
+    }
+}
+
+@media screen and (max-width: 313px) {
+    .custom-p{
+  Margin: 3px;
+    width: 145px !important; 
+    }
+}
+
+@media screen and (max-width: 303px) {
+    .custom-p{
+  Margin: 3px;
+    width: 140px !important;
+    font-size: 10px; 
+    .custom-btn{
+        font-size: 10px !important;
+    }
+    }
+}
+
+@media screen and (max-width: 293px) {
+    .custom-p{
+  Margin: 3px;
+    width: 135px !important;
+    font-size: 10px; 
+    }
+}
+
+
+.custom-text{
+    font-size: 14px;
+}
+
+.custom-btn{
+    font-size: 15px !important;
+}
+
+/* Footer */
+
+@media screen and (max-width: 992px){
+    .custom-height{
+        height: 400px;
+
+    }
+}
+
+@media screen and (max-width: 768px){
+    .custom-height{
+        height: 450px;
+
+    }
+}
+
+@media screen and (max-width: 576px){
+    .custom-height{
+        height: 500px;
+
+    }
+}
+@media screen and (max-width: 335px){
+    .custom-height{
+        height: 550px;
+
+    }
+}
